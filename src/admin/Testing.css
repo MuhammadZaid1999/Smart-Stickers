@@ -1,0 +1,17 @@
+#first{
+    background: #3D393B;
+    color: white;
+    max-width: 110%;
+    min-width: 110%;
+}
+#second{
+    background: rgb(93, 174, 206);
+    color: white;
+    max-width: 110%;
+    min-width: 110%;
+    min-height: 50px;
+    max-height: 50px;
+    margin-top: -1.40%;
+    
+
+}
